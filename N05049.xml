@@ -107,8 +107,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006336_0000_1028A33BB945C610"/>
-            <pb facs="tcp:006336_0001_1028A35290547F08" rendition="simple:additions"/>
+            <pb facs="unknown:006336_0000_1028A33BB945C610"/>
+            <pb facs="unknown:006336_0001_1028A35290547F08"
+                rendition="simple:additions"/>
             <p>A JOURNAL OF THE <hi>PROCEEDINGS</hi> OF THE COMMISSIONERS</p>
             <p>Appointed for Managing A <hi>Treaty</hi> of <hi>Peace</hi>: To be Begun and Held at <hi>Falmouth,</hi> in the County of <hi>York,</hi> the Twenty-ſeventh of <hi>September,</hi> Anno Domini One thouſand ſeven hundred and forty-nine; BETWEEN <hi>Thomas Hutchinſon, John Choate, Iſrael Williams,</hi> and <hi>James Otis,</hi> Eſqrs; COMMISSIONED by the HONOURABLE <hi>SPENCER PHIPS,</hi> 
                <abbr>Eſq</abbr> Lieutenant-Governour and Commander in Chief, in and over His Majeſty's Province of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England,</hi> on the one Part; AND THE <hi>EASTERN INDIANS</hi> on the other Part.</p>
@@ -118,7 +119,7 @@
       </front>
       <body>
          <div type="journal">
-            <pb n="3" facs="tcp:006336_0002_1028A35446F59DC0"/>
+            <pb n="3" facs="unknown:006336_0002_1028A35446F59DC0"/>
             <head>A <hi>JOURNAL,</hi> &amp;c.</head>
             <div type="day">
                <head>
@@ -136,7 +137,7 @@
                <p>THere being no News of the <hi>Penobſcott</hi> Tribe, the Commiſſioners diſpatch'd a Whale-Boat to St. <hi>George</hi>'s Fort, with Letters to Capt. <hi>Bradbury</hi> the comman<g ref="char:EOLhyphen"/>ding Officer there, deſiring him to let them know the Reaſon of the Indians Delay; and what his Expectations concerning them were.—Fourteen Men, Women and Children, of the <hi>Pigwacket</hi> Indians, who had lived among the Engliſh, in the County of <hi>Plymouth,</hi> during the War, and were ſent down to be preſent at the Treaty, arrived this Day.</p>
             </div>
             <div type="day">
-               <pb n="4" facs="tcp:006336_0003_1028A33D43289030"/>
+               <pb n="4" facs="unknown:006336_0003_1028A33D43289030"/>
                <head>
                   <hi>October</hi> 4<hi>th.</hi>
                </head>
@@ -168,7 +169,7 @@
                <p>THe <hi>Penobſcott</hi> Indians arrived this Morning, with an Engliſh Captive, who was reſtored, agreable to a Promiſe made at <hi>Boſton</hi>; and being brought to the Commiſſioners Lodgings, Mr. <hi>Hutchinſon</hi> ſpoke to them in the Name of the Com<g ref="char:EOLhyphen"/>miſſioners, as follows, <hi>viz.</hi>
                </p>
                <sp>
-                  <pb n="5" facs="tcp:006336_0004_1028A356E461A4F8"/>
+                  <pb n="5" facs="unknown:006336_0004_1028A356E461A4F8"/>
                   <speaker>Commiſſioners.</speaker>
                   <p>We are glad to ſee you ſafe arriv'd, and in Health. We have been waiting here above a Fortnight for you. <hi>Toxus,</hi> and a Number of the <hi>Norridgo<g ref="char:EOLhyphen"/>wock</hi> Tribe, and the <hi>Pigwackets</hi> from <hi>Boſton,</hi> have alſo been here about the ſame Space of Time. We have been ſo long kept from home, that we deſign to return as ſoon as poſſible. We propoſe to have a Conference with you all in the Afternoon, and have notified the other Tribes of it. And if any Thing previous is to be ſaid, you may now ſpeak with Freedom.</p>
                </sp>
@@ -213,7 +214,7 @@
                   <sp>
                      <speaker>Commiſſi.</speaker>
                      <p>Sometime in the Month of <hi>June</hi> laſt Nine of your Brethren came up to <hi>Boſton,</hi> and they made propoſals of Peace in the Name of all the Tribes to Governour <hi>Shirley,</hi> in a Conference had with him. They alſo pro<g ref="char:EOLhyphen"/>pos'd a Meeting of their Tribes in this Part of the Province, to treat and agree
-<pb n="6" facs="tcp:006336_0005_1028A33FF4D94C00"/>
+<pb n="6" facs="unknown:006336_0005_1028A33FF4D94C00"/>
 upon the particular Articles or Terms of Peace; declaring they were not then fully authorized for that Purpoſe. The Governour promis'd to meet them by himſelf, or by his Commiſſioners at this Place the 27th of <hi>September</hi> laſt. Soon after this, His Excellency's Affairs obliged him to go to <hi>Great-Britain</hi>: And ſome Affairs of Con<g ref="char:EOLhyphen"/>ſequence requiring the Preſence of the Lieutenant-Governour at <hi>Boſton,</hi> He has appointed Commiſſioners with as full Power as He would have had if He had been perſonally preſent.</p>
                      <p>We have been waiting here fourteen Days: The two Gentlemen from the Go<g ref="char:EOLhyphen"/>vernment of <hi>New-Hampſhire</hi> waited here alſo ſome Time; but being obliged to return, they have impowered us to act in their Behalf; and have authorized <hi>Roland Cotton,</hi> 
                         <abbr>Eſq</abbr> to Sign in their Name and in behalf of their Government, ſuch Ar<g ref="char:EOLhyphen"/>ticles as we ſhall agree to.</p>
@@ -251,7 +252,7 @@ upon the particular Articles or Terms of Peace; declaring they were not then ful
                      <p>Your Tribe is numerous; and but Five here! Are you properly impowered to act for the whole Tribe? Are they acquainted with your coming?</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:006336_0006_1028A35962EDE8E8"/>
+                     <pb n="7" facs="unknown:006336_0006_1028A35962EDE8E8"/>
                      <speaker>Eger Emmet.</speaker>
                      <p>Yes, We are to act for them all. We don't come here for Nothing.</p>
                   </sp>
@@ -333,7 +334,7 @@ upon the particular Articles or Terms of Peace; declaring they were not then ful
                      <p>As to taking part with the <hi>French,</hi> I cannot now anſwer: We muſt conſult upon it.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:006336_0007_1028A3418ECC77A8"/>
+                     <pb n="8" facs="unknown:006336_0007_1028A3418ECC77A8"/>
                      <speaker>Commiſſi.</speaker>
                      <p>When the Delegates were at <hi>Boſton,</hi> they ſaid they would conſult their Tribes; and it is now expected they will Anſwer.</p>
                      <p>To-Morrow is the Lord's-Day, upon which we do no Buſineſs. Therefore we deſire you will retire to the Iſland prepar'd for you, where proper Proviſion is or<g ref="char:EOLhyphen"/>dered you. We ſhall meet you again in this Place on Monday Morning next: And ſhall bring with us Governour <hi>Dummer</hi>'s Treaty, &amp;<hi>c.</hi> And before that Time We and You may both conſider of what has been now ſaid.</p>
@@ -394,7 +395,7 @@ upon the particular Articles or Terms of Peace; declaring they were not then ful
                   <speaker>Toxus.</speaker>
                   <p>I will tell ſomething. I know the Minds of the <hi>Canada</hi> Indians; one of them, being preſent, is an Evidence.</p>
                   <p>
-                     <pb n="9" facs="tcp:006336_0008_1028A35BE7DD3B10"/>
+                     <pb n="9" facs="unknown:006336_0008_1028A35BE7DD3B10"/>
 Upon the Ceſſation of Arms, the <hi>French</hi> and <hi>Indians</hi> were ſent for, and went up to <hi>Canada,</hi> and diſcharg'd all the Guns which were loaded in the War; and the Governour then told them, that if they ſhould ſhoot at any of the <hi>Engliſh,</hi> they had as good ſhoot againſt their own Brothers: The Governor of <hi>Albany</hi> ſent Belts of Wampum to the ſeveral Tribes of <hi>Indians</hi> between there and <hi>Canada,</hi> and then the Path of Peace was open.</p>
                </sp>
                <sp>
@@ -522,7 +523,7 @@ Upon the Ceſſation of Arms, the <hi>French</hi> and <hi>Indians</hi> were ſen
                   <p>Twenty Days agone.</p>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:006336_0009_1028A343DA4D13F8"/>
+                  <pb n="10" facs="unknown:006336_0009_1028A343DA4D13F8"/>
                   <speaker>Commiſſi.</speaker>
                   <p>Was this Boy the ſame you took at <hi>New-Caſco</hi>?</p>
                </sp>
@@ -599,7 +600,7 @@ Upon the Ceſſation of Arms, the <hi>French</hi> and <hi>Indians</hi> were ſen
                   </p>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:006336_0010_1028A35E6888E460"/>
+                  <pb n="11" facs="unknown:006336_0010_1028A35E6888E460"/>
                   <speaker>Sayweremet.</speaker>
                   <p>We deſire there may be a Truck-Houſe at <hi>Saco</hi> likewiſe.</p>
                </sp>
@@ -656,7 +657,7 @@ Upon the Ceſſation of Arms, the <hi>French</hi> and <hi>Indians</hi> were ſen
                <sp>
                   <speaker>Toxus.</speaker>
                   <p>We have now almoſt finiſh'd in Love and Unity. Time was in Governor <hi>Dummer</hi>'s Day &amp; Treaty, we made Peace in all Love &amp; Unity. Why can't we do it now? 
-<pb n="12" facs="tcp:006336_0011_1028A345A69E90F0"/>
+<pb n="12" facs="unknown:006336_0011_1028A345A69E90F0"/>
 We hope it will be ſo now, and that we ſhall live in Peace and Unity again. I wiſh all our Friends and Neighbours had been here, but ſince they are not, we will ſtill do well. What we have been ſaying and doing, all our Tribes will like well. There are three of our young People that we ſhall be thankful to return to their native Land, viz. <hi>Oone<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>z, Mareuſo,</hi> and <hi>Mareagit,</hi> at <hi>Plymouth.</hi>
@@ -715,7 +716,7 @@ We hope it will be ſo now, and that we ſhall live in Peace and Unity again. I 
                <p>The Indians then ſigned their Articles, which are as follows, <hi>viz.</hi>
                </p>
                <q>
-                  <pb n="13" facs="tcp:006336_0012_1028A3640A4885C8"/>
+                  <pb n="13" facs="unknown:006336_0012_1028A3640A4885C8"/>
                   <floatingText xml:lang="unk">
                      <body>
                         <div type="treaty">
@@ -738,7 +739,7 @@ We hope it will be ſo now, and that we ſhall live in Peace and Unity again. I 
                            <p>IN the Name and Behalf of the Tribes and <hi>Indians</hi> aforeſaid, We do promiſe and engage, THAT at all Times for ever, from and after the Date of theſe Preſents, We and They will ceaſe and forbear all Acts of Hoſtility, Injuries and Diſcords towards all the Subjects of the Crown of <hi>Great-Britain,</hi> and not offer the leaſt Hurt, Violence or Moleſtation to them or any of them, in their Perſons or Eſttaes, but will henceforward hold and maintain, a firm and conſtant Amity with all the <hi>Engliſh,</hi> and will never Confederate or Combine with any other Nation to their Prejudice.</p>
                            <p>THAT all the Captives taken in this preſent War ſhall forthwith be reſtored, without any Ranſom or Payment to be made for them or any of them.</p>
                            <p>THAT His Majeſty's Subjects the <hi>Engliſh,</hi> ſhall and may peaceably and quietly enter upon, improve and enjoy all and ſingular their Rights of Land, and former Settlements, Properties and Poſſeſſions within the Eaſtern Parts of the ſaid Province of the <hi>Maſſachuſetts-Bay,</hi> together with all Iſlands, Iſlets, Shoars, Beaches and Fiſhery within the ſame, without any Moleſtation or Claims by us or any other <hi>Indians,</hi> and be in no ways interrupted or diſturbed therein. <hi>Saving</hi> to the Tribes of <hi>Indians</hi> within His Majeſty's Province aforeſaid, and their natural Defendants
-<pb n="14" facs="tcp:006336_0013_1028A3495C591868"/>
+<pb n="14" facs="unknown:006336_0013_1028A3495C591868"/>
 reſpectively, all their Lands, Liberties and Properties, not by them conveyed or ſold to or poſſeſſed by any of the <hi>Engliſh</hi> Subjects as aforeſaid; as alſo the Priviledge of Fiſhery, Hunting and Fowling as formerly.</p>
                            <p>THAT all Trade and Commerce which hereafter may be allowed between the <hi>Engliſh</hi> and the <hi>Indians,</hi> ſhall be under ſuch Management and Regulation as the Government of the <hi>Maſſachuſetts</hi> Province ſhall direct.</p>
                            <p>IF any Controverſy or Difference at any Time hereafter happen to ariſe between any of the <hi>Engliſh</hi> and <hi>Indians,</hi> for any real or ſuppoſed Wrong or Injury done on either Side, no private Revenge ſhall be taken for the ſame; but a proper Appli<g ref="char:EOLhyphen"/>cation ſhall be made to His Majeſty's Government upon the Place for Remedy or Redreſs thereof in a due Courſe of Juſtice: We ſubmitting our ſelves to be ruled and governed by His Majeſty's Laws, and deſiring to have the Benefit of the ſame.</p>
@@ -848,7 +849,7 @@ reſpectively, all their Lands, Liberties and Properties, not by them conveyed o
                   </floatingText>
                </q>
                <p>
-                  <pb n="15" facs="tcp:006336_0014_1028A35FF8B77478"/>
+                  <pb n="15" facs="unknown:006336_0014_1028A35FF8B77478"/>
 The Engliſh then ſigned their Article, which are as follows, <hi>viz.</hi>
                </p>
                <q>
@@ -873,7 +874,7 @@ The Engliſh then ſigned their Article, which are as follows, <hi>viz.</hi>
                            <p>In the next Place, It is hereby promiſed and engaged by <hi>Theodore A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                                     <desc>•</desc>
                                  </gap>kinſon</hi> and <hi>John Downing,</hi> Eſqrs; commiſſioned by his Excellency BENNING WENTWORTH, Eſq
-<pb n="16" facs="tcp:006336_0015_1028A34B101B13D0"/>
+<pb n="16" facs="unknown:006336_0015_1028A34B101B13D0"/>
 Governour and Commander in Chief of His Majeſty's Province of <hi>New-Hampſhire,</hi> That the ſaid Government ſhall be included and comprehended in, and bound to the Obſervance of all and every the Articles aforegoing, excepting that which reſpects the regulating the Trade.</p>
                            <closer>In Teſtimony whereof, We have ſigned and ſealed theſe Preſents.
 <dateline>
@@ -998,7 +999,7 @@ In the Name and by Order of <hi>Theodore Atkinſon</hi> and <hi>John Downing,</h
                <p>Then the Commiſſioners drank to the Indians, King <hi>GEORGE</hi>'s Health; alſo Health to all their Tribes, and a long Continuance of the Peace as now eſtabliſhed: Which was pledged by <hi>Toxus</hi> and all the reſt.</p>
             </div>
             <div type="day">
-               <pb n="17" facs="tcp:006336_0016_102A22FD6B412E60"/>
+               <pb n="17" facs="unknown:006336_0016_102A22FD6B412E60"/>
                <head>
                   <hi>October 17th.</hi> 1749.</head>
                <p>THE Indians being notified to be preſent at the Commiſſioners Lodgings; The Preſent from the Government was delivered to them, and they were informed, That as it was the Cuſtom of the Government, in their Conferences with the Indians <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1016,7 +1017,7 @@ In the Name and by Order of <hi>Theodore Atkinſon</hi> and <hi>John Downing,</h
             </closer>
          </div>
          <div type="proclamation">
-            <pb facs="tcp:006336_0017_1028A3501DE9A760"/>
+            <pb facs="unknown:006336_0017_1028A3501DE9A760"/>
             <head>By the HONOURABLE <hi>SPENCER PHIPS,</hi> 
                <abbr>Eſq</abbr> Lieutenant Governour and Commander in Chief, in and over His Majeſty's Pro<g ref="char:EOLhyphen"/>vince of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England.</hi>
             </head>
